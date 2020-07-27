@@ -1,6 +1,6 @@
 # NY Taxi Trip BigData
 - This project emphasises on trying different approaches to optimise MapReduce algorithm.
-- Analysis is present [here]()
+- Analysis is present [here](https://github.com/deepakprasad-02/NYTaxiTripBigData/blob/master/s3759108.report.pdf)
 
 
 ## To execute the program in Hadoop AWS instance, follow the steps

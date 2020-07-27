@@ -1,5 +1,6 @@
-# NYTaxiTripBigData
-This project emphasises on trying different approaches to optimise MapReduce algorithm
+# NY Taxi Trip BigData
+- This project emphasises on trying different approaches to optimise MapReduce algorithm.
+- Analysis is present [here]()
 
 
 ## To execute the program in Hadoop AWS instance, follow the steps
